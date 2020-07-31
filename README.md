@@ -16,3 +16,5 @@
   <h4>Number of viewers</h4>
   <img src="https://profile-counter.glitch.me/a-braham/count.svg" />
 </p>
+
+![WakaTime stat update in README.md](https://github.com/a-braham/a-braham/workflows/WakaTime%20stat%20update%20in%20README.md/badge.svg)

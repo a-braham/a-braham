@@ -18,4 +18,5 @@
 </p>
 
 <img src="https://github.com/a-braham/a-braham/blob/master/images/stat.svg" alt="Abraham WakaTime Activity"/>
-![WakaTime stat update in README.md](https://github.com/a-braham/a-braham/workflows/WakaTime%20stat%20update%20in%20README.md/badge.svg)
+
+![WakaTime status](https://github.com/a-braham/a-braham/workflows/WakaTime%20stat%20update%20in%20README.md/badge.svg)
